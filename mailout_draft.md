@@ -16,7 +16,7 @@ Queer Code London now has over {{ x }} members – welcome to everyone who has j
 - Join one of our upcoming events on [Meetup](https://www.meetup.com/Queer-Code-London/)
  - {{ Date '11th April' }}: {{ [Event title](Event Link) }}
 - Follow us on [Twitter](https://twitter.com/QCLdn) and like us on [Facebook­](https://www.facebook.com/QueerCodeLondon/)
-- Join us on [Slack­](https://slackinvite-qcldn.herokuapp.com/)
+- Join us on Slack­ here: [https://slackinvite-qcldn.herokuapp.com/](https://slackinvite-qcldn.herokuapp.com/)
 
 ### Upcoming events
 
@@ -28,13 +28,10 @@ Our next event will be {{ [Event Title](Event Link) }} on **{{ Date '11th April'
 
 We could use some help in running this meetup. If any of the following interests you, please contact us:
 
-**Social Media** – promoting via Facebook or Twitter, designing a logo
-
-**Events** – giving a talk, recommending a speaker, discussion topic ideas, lightning talks of just a few minutes
-
-**Social events** – finding locations, coming up with ideas, hosting and welcoming people
-
-**Sponsors** – companies who can provide space and/or sponsor food and drink or social events, we would need someone from the company to be at each event they host
+- **Social Media** – promoting via Facebook or Twitter, designing a logo
+- **Events** – giving a talk, recommending a speaker, discussion topic ideas, lightning talks of just a few minutes
+- **Social events** – finding locations, coming up with ideas, hosting and welcoming people
+- **Sponsors** – companies who can provide space and/or sponsor food and drink or social events, we would need someone from the company to be at each event they host
 
 If you want to help out with something else that is not listed, let us know!
 
@@ -42,15 +39,13 @@ If you want to help out with something else that is not listed, let us know!
 
 Please follow us, retweet, like and share. Just the simple act of retweeting or sharing a post can have a huge impact, so it’s really appreciated!
 
-Website: [queer-code.org­](http://queer-code.org/)
+- Website: [queer-code.org­](http://queer-code.org/)
+- Twitter: [https://twitter.com/QCLdn­](https://twitter.com/QCLdn)
+- Facebook: [https://www.facebook.com/QueerCodeLondon/­](https://www.facebook.com/QueerCodeLondon/)
+- Github: [https://github.com/qcldn­](https://github.com/qcldn)
+- Slack: [https://queercodelondon.slack.com/­](https://queercodelondon.slack.com/) (sign up at [https://slackinvite-qcldn.herokuapp.com/­](https://slackinvite-qcldn.herokuapp.com/))
 
-Twitter: [https://twitter.com/QCLdn­](https://twitter.com/QCLdn)
-
-Facebook: [https://www.facebook.com/QueerCodeLondon/­](https://www.facebook.com/QueerCodeLondon/)
-
-Github: [https://github.com/qcldn­](https://github.com/qcldn)
-
-Slack: [https://queercodelondon.slack.com/­](https://queercodelondon.slack.com/) (sign up at [https://slackinvite-qcldn.herokuapp.com/­](https://slackinvite-qcldn.herokuapp.com/))
+If you want to contact the organisers directly, please feel free to email **qclnd-orga@googlegroups.com**
 
 ### Who are the organisers
 
