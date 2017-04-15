@@ -24,7 +24,7 @@ Our next event will be {{ [Event Title](Event Link) }} on **{{ Date '11th April'
 
 {{ Descriptions of any other announced events. }}
 
-###Help wanted!
+### Help wanted!
 
 We could use some help in running this meetup. If any of the following interests you, please contact us:
 
