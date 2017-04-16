@@ -1,6 +1,6 @@
 ### Photo policy
 
-We want to get more queer coders excited about us! What better to show them than by having some photos up so they can see what it’s like at our meetups.
+We want to get more queer coders excited about us! What better way to show them than by having some photos up so they can see what it’s like at our meetups.
 
 We have an opt-in photo system whereby we ask event attendees to indicate on their name tag that they are okay with having their photo taken by drawing a large lightning bolt symbol.
 
