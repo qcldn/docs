@@ -3,7 +3,7 @@
 	<meta charset="UTF-8">
 	<title>Example Nametags</title>
 	<style>
-		html, body, div, span {
+		html, body, div, span, p {
 			margin: 0;
 			padding: 0;
 			border: 0;
@@ -37,10 +37,18 @@
 			display: flex;
 			align-items: center;
 		}
+		.photo {
+			background-color: rgba(0, 255, 10, 0.7);
+		}
 		td {
 			font-size: 30px;
 			padding: 3px;
 			padding-right: 20px;
+		}
+		.note {
+			margin-left: 10px;
+			margin-top: 10px;
+			font-size: 20px;
 		}
 	</style>
 <body>
@@ -50,7 +58,22 @@
 			<table>
 				<tr>
 					<td>Name:</td>
-					<td>Sam</td>
+					<td>Darrel</td>
+				</tr>
+				<tr>
+					<td>Pronouns:</td>
+					<td>he/him or they/them</td>
+				</tr>
+			</table>
+		</div>
+		<div class="note">
+			<p>↓↓↓The green nametag means Chris is okay with photos!↓↓↓</p>
+		</div>
+		<div class="nametag photo">
+			<table>
+				<tr>
+					<td>Name:</td>
+					<td>Chris</td>
 				</tr>
 				<tr>
 					<td>Pronouns:</td>
@@ -62,11 +85,11 @@
 			<table>
 				<tr>
 					<td>Name:</td>
-					<td>Hector</td>
+					<td>Mary</td>
 				</tr>
 				<tr>
 					<td>Pronouns:</td>
-					<td>he/him or they/them</td>
+					<td>she/her</td>
 				</tr>
 			</table>
 		</div>
