@@ -4,19 +4,23 @@ Queer Code London now has over {{ x }} members – welcome to everyone who has j
 
 ### Contents
  1. tl;dr
- 2. Upcoming events
- 3. Help wanted!
- 4. Queer Code on all channels
- 5. Who are the organisers
- 6. Welfare
- 7. Photo policy
- 8. Thanks to our sponsors
+ 2. News!
+ 3. Upcoming events
+ 4. Help wanted!
+ 5. Queer Code on all channels
+ 6. Who are the organisers
+ 7. Welfare
+ 8. Buddy Scheme
+ 9. Photo policy
+ 10. Thanks to our sponsors
 
 ### tl;dr
 - Join one of our upcoming events on [Meetup](https://www.meetup.com/Queer-Code-London/)
  - {{ Date '11th April' }}: {{ [Event title](Event Link) }}
 - Follow us on [Twitter](https://twitter.com/QCLdn) and like us on [Facebook­](https://www.facebook.com/QueerCodeLondon/)
 - Join us on Slack­ here: [https://slackinvite-qcldn.herokuapp.com/](https://slackinvite-qcldn.herokuapp.com/)
+
+### News!
 
 ### Upcoming events
 
@@ -59,11 +63,17 @@ If you want to contact the organisers directly, please feel free to email **qcln
 
 Please get in touch with Sam (@onlyskin on Slack) if you have any issues / concerns / anxiety about anything to do with Queer Code London that you’d like to raise safely and/or privately with the group or organisers.
 
-We are starting a buddy scheme. This is available to anyone who wants to come to an event and would feel more comfortable meeting someone friendly before the event. If you would like to use the buddy scheme, please visit our [application page](https://github.com/qcldn/docs/blob/master/buddy.md) and submit an email with the specified information. We will do our best to arrange someone to meet with you before the event.
+### Buddy Scheme
+
+We run a buddy scheme. This is available to anyone who wants to come to an event and would feel more comfortable meeting someone friendly before the event. If you would like to use the buddy scheme, please visit our [application page](https://github.com/qcldn/docs/blob/master/buddy.md) and submit an email with the specified information. We will do our best to arrange someone to meet with you before the event.
 
 ### Photo policy
 
-{{ PHOTO POLICY }}
+We want to get more queer coders excited about us! What better way to show them than by having some photos up so they can see what it’s like at our meetups. We will dedicate one person for the next few meetups to take some photos.
+
+If you are ok with being in photos, please take one of the coloured nametags provided at the events (this is an opt-in system). Please do not take photographs of people who do not have a coloured nametag.
+
+If you are in one of our published photos and you are not happy, please feel free to tell the organisers and we will stop using it. This is our first photo policy and we are open to feedback on how to improve it!
 
 ### Thanks to our sponsors
 
