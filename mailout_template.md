@@ -55,7 +55,7 @@ If you want to contact the organisers directly, please feel free to email **qcln
 
 - Alex (they/them)
 - Daniel (he/him)
-- Franzi (she/her or they/them)
+- Franzi (they/them)
 - Hector (he/him or they/them)
 - Nathan (he/him or they/them)
 - Sam (they/them)
