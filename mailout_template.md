@@ -72,7 +72,7 @@ We run a buddy scheme. This is available to anyone who wants to come to an event
 
 We want to get more queer coders excited about us! What better way to show them than by having some photos up so they can see what it’s like at our meetups. We will dedicate one person for the next few meetups to take some photos.
 
-If you are ok with being in photos, please take one of the coloured nametags provided at the events (this is an opt-in system). Please do not take photographs of people who do not have a coloured nametag.
+We have a special marker for nametags if you are okay with being in photos (this is an opt-in system).
 
 If you are in one of our published photos and you are not happy, please feel free to tell the organisers and we will stop using it. This is our first photo policy and we are open to feedback on how to improve it!
 
