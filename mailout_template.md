@@ -56,7 +56,7 @@ If you want to contact the organisers directly, please feel free to email **qcln
 
 ### Who are the organisers
 
-- Alex (they/them)
+- Alex (they/them or she/her)
 - Daniel (he/him)
 - Franzi (they/them)
 - Hector (he/him or they/them)
