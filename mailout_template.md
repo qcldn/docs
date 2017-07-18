@@ -38,6 +38,7 @@ We could use some help in running this meetup. If any of the following interests
 - **Sponsors** – companies who can provide space and/or sponsor food and drink or social events, we would need someone from the company to be at each event they host
 - **Saturday Venue** – we're looking for an accessible venue to host our once a month Lunch & Code event on a Saturday, please get in touch if you can host, even just on one occasion!
 - **Buddy Volunteers** – we're always looking for people happy to be buddies to new members, if you'd like to volunteer, read our criteria [here](https://github.com/qcldn/docs/blob/master/buddy.md), and join #buddy-scheme on Slack!
+- **Website & Branding** – we're working on improving our website and branding. If that's something you'd like to help with, please join #website or #branding on [Slack](https://slackinvite-qcldn.herokuapp.com/)
 
 If you want to help out with something else that is not listed, let us know!
 
@@ -59,6 +60,7 @@ If you want to contact the organisers directly, please feel free to email **qcln
 - Daniel (he/him)
 - Franzi (they/them)
 - Hector (he/him or they/them)
+- Kake (they/them)
 - Nathan (he/him or they/them)
 - Sam (they/them)
 
