@@ -36,8 +36,8 @@ We could use some help in running this meetup. If any of the following interests
 - **Events** – giving a talk, recommending a speaker, discussion topic ideas, lightning talks of just a few minutes
 - **Social events** – finding locations, coming up with ideas, hosting and welcoming people
 - **Sponsors** – companies who can provide space and/or sponsor food and drink or social events, we would need someone from the company to be at each event they host
-- **Saturday Venue** – we're looking for an accessible venue to host our once a month Lunch & Code event on a Saturday, please get in touch if you can host, even just on one occasion!
-- **Buddy Volunteers** – we're always looking for people happy to be buddies to new members, if you'd like to volunteer, read our criteria [here](https://github.com/qcldn/docs/blob/master/buddy.md), and join #buddy-scheme on Slack!
+- **Accessible Saturday Venue** – we're looking for an accessible venue to host our monthly Lunch & Code event on a Saturday, please get in touch if you can host, even just for one occasion!
+- **Buddy Volunteers** – we're always looking for people happy to be buddies to new members, if you'd like to volunteer, read our criteria [here](https://github.com/qcldn/docs/blob/master/buddy.md), and join #buddy-scheme on [Slack](https://slackinvite-qcldn.herokuapp.com/)!
 - **Website & Branding** – we're working on improving our website and branding. If that's something you'd like to help with, please join #website or #branding on [Slack](https://slackinvite-qcldn.herokuapp.com/)
 
 If you want to help out with something else that is not listed, let us know!
