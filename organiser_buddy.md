@@ -6,4 +6,4 @@ To get an organiser buddy, please send an email to **qclnd-orga@googlegroups.com
 - name
 - pronouns
 - contact email
-- if there's any specific event you'd like to help organise
+- if there's any specific event you'd like to help organise or what area you want to focus on
