@@ -1,3 +1,3 @@
-# please follow the below URL for our Code of Conduct
+# Code of Conduct
 
-[http://queer-code.org/coc.html](http://queer-code.org/coc.html)
+Our code of conduct can be found at this address: [http://queer-code.org/coc.html](http://queer-code.org/coc.html)
